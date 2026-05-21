@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <picture>
@@ -20,6 +21,10 @@
 Connect: Feel free to connect and collaborate!
 
 ## Skills & Tools
+
+<picture>
+<img src="profile/miraikanai_137453472_p0.png" width = "auto" height = "260" alt="ywds" align=right />
+</picture>
 
 ### Core Skills
 
