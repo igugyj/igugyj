@@ -10,7 +10,7 @@
 [Steam](https://steamcommunity.com/profiles/76561199677607305/) ·
 [Gitee](https://gitee.com/Pfolg)
 
-*<font color="gray">A rookie | Seeking between the ebb and flow of binary tides.</font>*
+*<font color="gray">Seeking between the ebb and flow of binary tides.</font>*
 
 </div>
 
