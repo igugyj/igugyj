@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <picture>
@@ -8,15 +7,16 @@
 [Website](https://pg25-lsae.eu.org) ·
 [Bilibili](https://space.bilibili.com/515553532) ·
 [Steam](https://steamcommunity.com/profiles/76561199677607305/) ·
-[Gitee](https://gitee.com/Pfolg)
+[Gitee](https://gitee.com/Pfolg) ·
+[MyWorks](https://worksgallery.pages.dev/)
 
-*<font color="gray">Seeking between the ebb and flow of binary tides.</font>*
+_<font color="gray">Seeking between the ebb and flow of binary tides.</font>_
 
 </div>
 
 ---
 
-- **Location**: Orion Arm of the Milky Way
+- **Location**: SiChuan, CN
 - **Identity**: Student
 - **Email**: hello[at]pg25-lsae.eu.org (receiving only)
 
