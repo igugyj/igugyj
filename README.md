@@ -22,6 +22,8 @@ _<font color="gray">Seeking between the ebb and flow of binary tides.</font>_
 
 Connect: Feel free to connect and collaborate!
 
+~~我幻想着写写代码，往GitHub一扔，然后就会收获star~~
+
 ## Skills & Tools
 
 <picture>
