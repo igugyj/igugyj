@@ -20,9 +20,12 @@ _<font color="gray">Seeking between the ebb and flow of binary tides.</font>_
 - **Identity**: Student
 - **Email**: hello[at]pg25-lsae.eu.org (receiving only)
 
-Connect: Feel free to connect and collaborate!
+A hobby‑driven solo developer who builds small tools to make daily life a little easier.  
+I code for fun, for myself — and sometimes for anyone who finds these things useful too! :)
 
-~~我幻想着写写代码，往GitHub一扔，然后就会收获star~~
+My rule: keep it simple, make it work, and don't overthink it.
+
+Got questions or just want to say hi? Feel free to drop me an email — I'd love to hear from you.
 
 ## Skills & Tools
 
