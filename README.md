@@ -20,7 +20,7 @@ _<font color="gray">Seeking between the ebb and flow of binary tides.</font>_
 - **Identity**: Student
 - **Email**: hello[at]pg25-lsae.eu.org (receiving only)
 
-A hobby‑driven solo developer who builds small tools to make daily life a little easier.  
+A hobby‑driven solo developer who builds small tools to make daily life a little easier.
 I code for fun, for myself — and sometimes for anyone who finds these things useful too! :)
 
 My rule: keep it simple, make it work, and don't overthink it.
@@ -51,11 +51,10 @@ Got questions or just want to say hi? Feel free to drop me an email — I'd love
 <summary><b>Preferred Tools</b></summary>
 
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=vscode&logoColor=white)](https://code.visualstudio.com)
-[![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)](https://jetbrains.com/pycharm)
-[![CLion](https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white)](https://jetbrains.com/clion)
+[![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat-square)](https://opencode.ai)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
 [![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=flat-square&logo=gimp&logoColor=white)](https://gimp.org)
 [![Kdenlive](https://img.shields.io/badge/Kdenlive-108C8C?style=flat-square&logo=kdenlive&logoColor=white)](https://kdenlive.org)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
 
 </details>
 
@@ -75,7 +74,8 @@ Got questions or just want to say hi? Feel free to drop me an email — I'd love
 <details>
 <summary><b>Other Tools</b></summary>
 
-[![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat-square)](https://opencode.ai)
+[![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)](https://jetbrains.com/pycharm)
+[![CLion](https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white)](https://jetbrains.com/clion)
 [![Trae CN](https://img.shields.io/badge/Trae%20CN-412991?style=flat-square&logo=bytedance&logoColor=white)](https://trae.cn)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=dotnet&logoColor=white)](https://visualstudio.microsoft.com)
 [![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudioide&logoColor=white)](https://rstudio.com)
