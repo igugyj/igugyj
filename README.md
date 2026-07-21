@@ -4,21 +4,11 @@
   <img src="./profile/hello.svg" alt="Hello" />
 </picture>
 
-[Website](https://pg25-lsae.eu.org) ·
-[Bilibili](https://space.bilibili.com/515553532) ·
-[Steam](https://steamcommunity.com/profiles/76561199677607305/) ·
-[Gitee](https://gitee.com/Pfolg) ·
-[MyWorks](https://worksgallery.pages.dev/)
-
 _<font color="gray">Seeking between the ebb and flow of binary tides.</font>_
 
 </div>
 
 ---
-
-- **Location**: SiChuan, CN
-- **Identity**: Student
-- **Email**: hello[at]pg25-lsae.eu.org (receiving only)
 
 A hobby‑driven solo developer who builds small tools to make daily life a little easier.
 I code for fun, for myself — and sometimes for anyone who finds these things useful too! :)
