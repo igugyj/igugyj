@@ -17,6 +17,8 @@ My rule: keep it simple, make it work, and don't overthink it.
 
 Got questions or just want to say hi? Feel free to drop me an email — I'd love to hear from you.
 
+> _Email: hello{艾特}pg25-lsae{点}eu{点}org_
+
 ## Skills & Tools
 
 <picture>
