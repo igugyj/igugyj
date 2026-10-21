@@ -9,8 +9,9 @@ _<font color="gray">Seeking between the ebb and flow of binary tides.</font>_
 </div>
 
 <!-- alive_start -->
-> [!NOTE]
-> Active · within 1 week
+> [!WARNING]
+> Inactive · within 1 week
+> Last confirmed: 2026-10-19
 <!-- alive_end -->
 
 ---
