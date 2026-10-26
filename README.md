@@ -23,7 +23,9 @@ My rule: keep it simple, make it work, and don't overthink it.
 
 Got questions or just want to say hi? Feel free to drop me an email — I'd love to hear from you.
 
-> _Email: hello{robot}pg25-lsae{vivo}eu{50}org_
+*_Email: hello{robot}pg25-lsae{vivo}eu{50}org_*
+
+> *べ、別にサボりたいから自動化フローを山ほど作ったわけじゃないんだからね！勘違いしないでよ！*
 
 ## Skills & Tools
 
